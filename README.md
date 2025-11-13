@@ -5,11 +5,11 @@ No real transactions, authentication, or trading occurs — all features are moc
 
 ✨ Features
 
-✔ Fully responsive UI
-✔ Pixel-perfect Binance-style design
-✔ Home, Markets, Login/Signup, Dashboard & Trading Layout
-✔ Dark/Light theme support (optional if you have it)
-✔ Modular and reusable components
-✔ Clean folder structure
-✔ Optimized UI elements and animations
-✔ Mobile-first layout
+✔ Fully responsive UI <br>
+✔ Pixel-perfect Binance-style design <br>
+✔ Home, Markets, Login/Signup, Dashboard & Trading Layout <br>
+✔ Dark/Light theme support (optional if you have it) <br>
+✔ Modular and reusable components <br>
+✔ Clean folder structure <br>
+✔ Optimized UI elements and animations <br>
+✔ Mobile-first layout <br>
