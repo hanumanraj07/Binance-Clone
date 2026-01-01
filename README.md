@@ -1,4 +1,4 @@
-YouTube Video Link: https://youtu.be/buGiEOplqzI?si=0QTXa3hjvkWUPra6
+YouTube Video Link: https://youtu.be/buGiEOplqzI?si=0QTXa3hjvkWUPra6 <br>
 LinkedIn Profile: www.linkedin.com/in/hanuman-rajpurohit-203880383
 
 This project is a complete UI clone of the Binance website, focusing on design replication, responsiveness, and modern component-based architecture.
